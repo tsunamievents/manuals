@@ -15,11 +15,9 @@ Kalte Geräte Kabel ist bereits am Mischpult angeschlossen und muss in eine 6er 
 USB-A auf USB-B an Mischpult und Ton Notebook anschließen
 
 ![](../../pictures/behringer-x32/image1.png)
-![](../../pictures/behringer-x32/image2.png)
 
 Asus Router an den Strom hängen und LAN1 (Router) mit der Ethernet Buchse des Mischpultes verbinden
 
-![](../../pictures/behringer-x32/image1.png)
 ![](../../pictures/behringer-x32/image2.png)
 
 <a id="stagebox"></a>
@@ -38,24 +36,20 @@ Stagebox: AES50-A oder AES50-B | Mischpult: AES50-A oder AES50-B
 ![](../../pictures/behringer-x32/image3.png)
 ![](../../pictures/behringer-x32/image4.png)
 
-![](../../pictures/behringer-x32/image1.png)
-![](../../pictures/behringer-x32/image2.png)
-
 Stagebox Nein
 
 Input Geräte nach Plan an die Inputs (Grün) anschließen
 
 Output Geräte nach Plan an die Outputs (Gelb) anschließen
 
-![](../../pictures/behringer-x32/image1.png)
-![](../../pictures/behringer-x32/image2.png)
+![](../../pictures/behringer-x32/image5.png)
 
 Stagebox Ja
 
 Input Geräte nach Plan an die Inputs (Grün) anschließen
 
 Output Geräte nach Plan an die Outputs (Gelb) anschließen
-![](../../pictures/behringer-x32/image5.png)
+
 ![](../../pictures/behringer-x32/image6.png)
 
 Anschalten ACHTUNG REIHENFOLGE:
