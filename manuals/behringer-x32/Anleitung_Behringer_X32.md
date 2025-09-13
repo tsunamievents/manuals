@@ -36,6 +36,13 @@ Stagebox: AES50-A oder AES50-B | Mischpult: AES50-A oder AES50-B
 ![](../../pictures/behringer-x32/image3.png)
 ![](../../pictures/behringer-x32/image4.png)
 
+
+Input Geräte nach Plan an die Inputs (Grün) anschließen
+
+Output Geräte nach Plan an die Outputs (Gelb) anschließen
+
+![](../../pictures/behringer-x32/image6.png)
+
 Stagebox Nein
 
 Input Geräte nach Plan an die Inputs (Grün) anschließen
@@ -44,13 +51,6 @@ Output Geräte nach Plan an die Outputs (Gelb) anschließen
 
 ![](../../pictures/behringer-x32/image5.png)
 
-Stagebox Ja
-
-Input Geräte nach Plan an die Inputs (Grün) anschließen
-
-Output Geräte nach Plan an die Outputs (Gelb) anschließen
-
-![](../../pictures/behringer-x32/image6.png)
 
 Anschalten ACHTUNG REIHENFOLGE:
 
