@@ -24,24 +24,6 @@ Asus Router an den Strom hängen und LAN1 (Router) mit der Ethernet Buchse des M
 ### Stagebox?
 
 <details>
-<summary>Stagebox: JA</summary>
-
-
-
-</details>
-
-<details>
-<summary>Stagebox: NEIN</summary>
-
-
-
-</details>
-
-
-STAGEBOX: [**JA**](#stagebox-ja) · [**NEIN**](#stagebox-nein)
-
-
-<details>
 <summary id="stagebox-ja">Stagebox: JA</summary>
 
 
